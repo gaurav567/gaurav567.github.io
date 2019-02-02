@@ -13,4 +13,4 @@ I grew up in Iowa and have lived in New Orleans, Massachusetts, Kenya, and DC. I
 
 ### Contact me
 
-[peter.gray.rasmussen@gmail.com](peter.gray.rasmussen@gmail.com)
+[gaurav05agarwal@gmail.com](gaurav05agarwal@gmail.com)
