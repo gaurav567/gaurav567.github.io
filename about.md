@@ -9,7 +9,7 @@ I live in Bangalore and currently involved with Analytics team in Virtusa,Where 
 
 ### More Information
 
-I am from Gwalior ,Madhya Pradesh, India . I love and keep exploring new things. 
+I am from Gwalior ,Madhya Pradesh, India . I love and keep exploring new and interesting things. 
 
 ### Contact me
 
