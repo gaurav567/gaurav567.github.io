@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I live in DC and recently graduated from the [Metis Data Science Bootcamp](http://www.thisismetis.com). I'm a data scientist because I love solving large, complicated problems through the acquisition, wrangling, analysis, and presentation of data. My expertise is in emerging markets - particularly in Sub-Saharan Africa - in the telecom, mobile financial services, infrastructure, and energy industries.
+I live in Bangalore and currently involved with Analytics team in Virtusa,Where I am exploring Big data with Hadoop, Automating work with Oozie , Workflows, Coordinator and Shell scripts, Selenium , Also Analysing Data with ETL techniques and providing better solutions with Machine learning tools/Algorithms . I want to be data scientist because I love solving large, complicated problems through the acquisition, wrangling, analysis, and presentation of data. My expertise is in emerging markets - particularly - in the telecom and in general small profitable products.
 
 ### More Information
 
-I grew up in Iowa and have lived in New Orleans, Massachusetts, Kenya, and DC. I love the Nebraska Cornhuskers, tend to listen to lots of post-punk / new wave music, and am a news and politics junkie. 
+I am from Gwalior ,Madhya Pradesh, India . I love and keep exploring new things. 
 
 ### Contact me
 
